@@ -6,3 +6,5 @@ Source:https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients (M
 Client: Credit card Company
 
 Goal: Use credit account level data and develop a model to predict account defaults given demographics and historical data.
+
+Currently facing issues with XGBoost implementation. 
